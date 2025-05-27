@@ -1,0 +1,66 @@
+{
+  "initial_access_web": [
+    {
+      "module": "thor",
+      "technique": "T1595",
+      "delay": 1
+    },
+    {
+      "module": "freya",
+      "technique": "T1190",
+      "delay": 2
+    },
+    {
+      "module": "baldur",
+      "technique": "T1203",
+      "delay": 2
+    },
+    {
+      "module": "loki",
+      "technique": "T1053.005",
+      "delay": 1
+    },
+    {
+      "module": "mimir",
+      "technique": "T1082",
+      "delay": 1
+    },
+    {
+      "module": "norns",
+      "technique": "T1005",
+      "delay": 0
+    }
+  ],
+  "cloud_intrusion": [
+    {
+      "module": "njord",
+      "technique": "T1078.004",
+      "delay": 2
+    },
+    {
+      "module": "freya",
+      "technique": "T1189",
+      "delay": 2
+    },
+    {
+      "module": "baldur",
+      "technique": "T1210",
+      "delay": 2
+    },
+    {
+      "module": "loki",
+      "technique": "T1027",
+      "delay": 2
+    },
+    {
+      "module": "mimir",
+      "technique": "T1110",
+      "delay": 1
+    },
+    {
+      "module": "norns",
+      "technique": "T1560",
+      "delay": 0
+    }
+  ]
+}
