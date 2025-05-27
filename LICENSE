@@ -1,4 +1,5 @@
 
+
 MIT License
 
 Copyright (c) 2025 The Divinity Project
@@ -7,32 +8,53 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+copies of the Software, and to permit persons to whom the Software is furnished
+to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
------------------------------------------
-DISCLAIMER OF LIABILITY AND RESPONSIBILITY
+-------------------------------------------------------------------------------
+DISCLAIMER OF LIABILITY, USE LIMITATIONS, AND INDEMNIFICATION AGREEMENT
 
-This software is provided strictly for educational, ethical security research, 
-and authorized penetration testing purposes. Unauthorized use of this software 
-against systems without explicit consent is strictly prohibited and may violate 
-local, state, and international laws.
+This software is intended solely for lawful use in authorized environments,
+including but not limited to penetration testing, vulnerability assessment,
+research, and educational purposes where explicit, documented permission to
+test and analyze has been granted by the system owner.
 
-By using the Asgard Framework, you agree that the authors, contributors, and
-maintainers of this project shall not be held liable for any misuse, damages, 
-legal claims, or consequences arising from the use, distribution, or modification 
-of this software or its derivative works.
+Any use of this software against systems, networks, or services without
+express, written authorization is strictly prohibited and constitutes
+unauthorized access, which may be a violation of federal and international
+computer crime laws, including the U.S. Computer Fraud and Abuse Act (18 U.S.C. § 1030),
+the U.K. Computer Misuse Act 1990, and similar legislation globally.
 
-You are solely responsible for ensuring that your use of this software complies 
-with all applicable laws and organizational policies. Use responsibly.
+THE AUTHORS, CONTRIBUTORS, AND MAINTAINERS OF THIS SOFTWARE, INCLUDING ANY ENTITY
+OPERATING UNDER THE NAME “THE DIVINITY PROJECT”, DISCLAIM ANY AND ALL LIABILITY
+ARISING FROM:
+
+1. Use of the Software in unauthorized or illegal contexts.
+2. Direct or indirect damages, including but not limited to loss of data,
+   downtime, monetary loss, or damage to third-party systems.
+3. Actions taken by users or derivative authors that result in criminal,
+   civil, or administrative penalties.
+
+BY DOWNLOADING, COPYING, INSTALLING, OR OTHERWISE USING THIS SOFTWARE, YOU
+AGREE TO:
+
+1. Use it only for ethical, lawful, and permitted purposes.
+2. Assume all legal and ethical responsibility for any outcomes resulting
+   from its use or distribution.
+3. Indemnify and hold harmless the original authors, contributors, maintainers,
+   and affiliated parties from any legal claims, charges, or liabilities.
+
+IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THIS SOFTWARE. VIOLATIONS MAY BE
+REPORTED TO RELEVANT AUTHORITIES WITH FULL COOPERATION FROM THE MAINTAINERS.
+
+This disclaimer forms an integral part of the licensing terms and conditions.
