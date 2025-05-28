@@ -91,7 +91,7 @@ See `LICENSE.txt` for full disclaimer.
 **The Divinity Project**
 
 For questions, contributions, or collaborations — reach out or fork this project.
-
+https://buymeacoffee.com/tdpunkn0wnable - if you feel up to it. not required 
 ---
 
 ## 🔖 Tags
